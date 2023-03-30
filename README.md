@@ -5,10 +5,9 @@
 ### Part 1
 
 * Perform scaling, rotation and translation on various pointclouds.
-* Visualize all pointclouds together by constructing a table scene.
 * Generate partial pointclouds using multiple different camera views.
 * Register pointclouds to a global frame and reconstruct the full scene pointcloud.
-* Compute Chamfer's distance between ground truth scene pointcloud and reconstructed pointcloud.
+* Computation of Chamfer's distance between constructed and ground truth pointclouds.
 
 ## Part 2
 
@@ -18,7 +17,7 @@
 ## Part 3
 
 * Understanding homogeneous coordinates, vanishing points and points at infinity.
-* Understanding of frame and ooint transformations.
+* Understanding of frame and point transformations.
 
 ## Part 4
 
