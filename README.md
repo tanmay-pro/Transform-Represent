@@ -13,10 +13,16 @@
 ## Part 2
 
 * Understanding of rotation matrices, quarternions and gimbal locks.
-* Implementation of codes from one representation to another.
+* Implementation of codes for conversation from one representation to another.
 
 ## Part 3
 
+* Understanding homogeneous coordinates, vanishing points and points at infinity.
+* Understanding of frame and ooint transformations.
+
 ## Part 4
+
+* Working in the LiDAR frame and dealing with registration of point clouds.
+* Working in the camera frame and the world frame.
 
 
